@@ -1,13 +1,8 @@
 GitHub Repository Link (PUBLIC)
 ===============================
 
-Paste your public GitHub repository URL here AFTER you upload.
+https://github.com/manasak2010/AirSketch.git
 
-Example:
-https://github.com/<your-username>/<your-repo-name>
-
-Actual link:
-<PASTE YOUR LINK HERE>
 
 
 
