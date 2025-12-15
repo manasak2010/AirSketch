@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments (DO NOT upload)
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# App outputs
+drawing_*.png
+airskt/drawing_*.png
+
+# Cursor / tooling
+.cursor/
+agent-tools/
+
+
